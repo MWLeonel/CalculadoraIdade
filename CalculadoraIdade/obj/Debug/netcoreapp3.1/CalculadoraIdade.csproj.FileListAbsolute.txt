@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\CalculadoraIdade\CalculadoraIdade\bin\Debug\netcoreapp3.1\CalculadoraIdade.exe
+C:\Users\Max\Desktop\CalculadoraIdade\CalculadoraIdade\bin\Debug\netcoreapp3.1\CalculadoraIdade.deps.json
+C:\Users\Max\Desktop\CalculadoraIdade\CalculadoraIdade\bin\Debug\netcoreapp3.1\CalculadoraIdade.runtimeconfig.json
+C:\Users\Max\Desktop\CalculadoraIdade\CalculadoraIdade\bin\Debug\netcoreapp3.1\CalculadoraIdade.runtimeconfig.dev.json
+C:\Users\Max\Desktop\CalculadoraIdade\CalculadoraIdade\bin\Debug\netcoreapp3.1\CalculadoraIdade.dll
+C:\Users\Max\Desktop\CalculadoraIdade\CalculadoraIdade\bin\Debug\netcoreapp3.1\CalculadoraIdade.pdb
+C:\Users\Max\Desktop\CalculadoraIdade\CalculadoraIdade\obj\Debug\netcoreapp3.1\CalculadoraIdade.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\CalculadoraIdade\CalculadoraIdade\obj\Debug\netcoreapp3.1\CalculadoraIdade.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\CalculadoraIdade\CalculadoraIdade\obj\Debug\netcoreapp3.1\CalculadoraIdade.AssemblyInfo.cs
+C:\Users\Max\Desktop\CalculadoraIdade\CalculadoraIdade\obj\Debug\netcoreapp3.1\CalculadoraIdade.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\CalculadoraIdade\CalculadoraIdade\obj\Debug\netcoreapp3.1\CalculadoraIdade.dll
+C:\Users\Max\Desktop\CalculadoraIdade\CalculadoraIdade\obj\Debug\netcoreapp3.1\CalculadoraIdade.pdb
+C:\Users\Max\Desktop\CalculadoraIdade\CalculadoraIdade\obj\Debug\netcoreapp3.1\CalculadoraIdade.genruntimeconfig.cache
